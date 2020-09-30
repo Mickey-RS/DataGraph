@@ -1,0 +1,4 @@
+> promedio voltaje a-b b-c c-a, gráfica triple, para prom, min y máx, sacar valor promedio de cada 
+	gráfica, pedir valor base tensión  y calcular (vmax - vbase) / vbase y lo mismo para el min. 
+	generar los datos en una tabla como en el ejemplo.
+> Realizar lo mismo para las columnas de Real Power A, B y C
